@@ -20,7 +20,7 @@ You can find my interests in [interest](interest.txt)\
 - CSE 110
 - CSE 101
 - CSE 130
-- 
+  
 ### Courses_have_taken:
 - [x] CSE 100
 - [x] CSE 105
