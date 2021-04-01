@@ -1,8 +1,7 @@
 # **Dadian Zhu**
 ### *UCSD Junior major in computer science*
 
-![Image of ucsd]
-(https://upload.wikimedia.org/wikipedia/en/thumb/4/44/University_of_California%2C_San_Diego_seal.svg/1200px-University_of_California%2C_San_Diego_seal.svg.png)\
+![Image of ucsd](https://jacobsschool.ucsd.edu/sites/default/files/groups/jsoe/img/logos/cse/digital/UCSDLogo_JSOE-ComputerSciEng_BlueGold.png) \
 ### Greeting
 ```
 class CSE110{
