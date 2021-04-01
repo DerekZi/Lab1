@@ -2,7 +2,7 @@
 ### *UCSD Junior major in computer science*
 
 ![Image of ucsd]
-(https://en.wikipedia.org/wiki/University_of_California,_San_Diego#/media/File:University_of_California,_San_Diego_seal.svg)\
+(https://upload.wikimedia.org/wikipedia/en/thumb/4/44/University_of_California%2C_San_Diego_seal.svg/1200px-University_of_California%2C_San_Diego_seal.svg.png)\
 ### Greeting
 ```
 class CSE110{
