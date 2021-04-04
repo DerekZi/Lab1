@@ -22,9 +22,9 @@ You can find my interests in [interest](interest.txt)
 [LinkedIn Account](https://www.linkedin.com/in/dadian-zhu-4b4674166/)
 
 ### Courses_taking:
-- CSE 110
-- CSE 101
-- CSE 130
+1. CSE 110
+2. CSE 101
+3. CSE 130
   
 ### Courses_have_taken:
 - [x] CSE 100
