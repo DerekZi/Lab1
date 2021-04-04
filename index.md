@@ -34,8 +34,8 @@ You can find my interests in [interest](interest.txt)
 - [x] MATH 183
 
 ### Courses_needed_to_graduate:
-- [ ] CSE 141
-- [ ] CSE 120
-- [ ] CSE 107
-- [ ] CSE 151A
-- [ ] 7 Elective
+- CSE 141
+- CSE 120
+- CSE 107
+- CSE 151A
+- 7 Elective
